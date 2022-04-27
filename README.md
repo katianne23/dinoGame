@@ -8,4 +8,4 @@ Criação do jogo do dinossauro do google Chrome
 * [Javascript](https://www.w3schools.com/jsref/default.asp)
 
 ## Acesso a pagina:
-* [Jogar]()
+* [Jogar](https://katianne23.github.io/dinoGame/)
