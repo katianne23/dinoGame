@@ -1,4 +1,4 @@
-# dinoGame
+# DinoGame
 Criação do jogo do dinossauro do google Chrome
 
 ### Tecnologias Utilizadas:
